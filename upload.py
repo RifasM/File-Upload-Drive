@@ -15,6 +15,8 @@ file1.Upload() # Files.patch()
 content = file1.GetContentString()  # 'Hello'
 file1.SetContentString(content+' World!')  # 'Hello World!'
 file1.Upload() # Files.update()
+
+print("Uploaded file '%s' to drive home directory" %file1['title'])
 """
 file2 = drive.CreateFile()
 file2.SetContentFile('hello.png')
