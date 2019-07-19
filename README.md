@@ -10,7 +10,8 @@ This python script can be used to upload a file to the users google drive via th
 
 ----
 
-Download and store file, "clent-secrets.json" in the working directory.
+- Download and store file, "clent-secrets.json" in the working directory.
+- Add client secret and client id in the settings.yaml file for successive authenticated logins
 
 ----
 
