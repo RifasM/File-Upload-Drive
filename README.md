@@ -17,6 +17,9 @@ This python script can be used to upload a file to the users google drive via th
 
 # Run
 - python upload.py
+    - To upload to Root directory of Google Drive
+- python UploadtoFolder.py
+    - To upload to a folder "Folder" in Google Drive
 
 
 ----
