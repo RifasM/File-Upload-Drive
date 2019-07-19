@@ -1,4 +1,4 @@
-# File-Upload-Drive-
+# File Uploader for Google Drive
 This python script can be used to upload a file to the users google drive via the google drive API.
 
 -----
